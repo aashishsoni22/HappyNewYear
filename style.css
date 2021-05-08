@@ -77,7 +77,7 @@ footer{
       font-size: 30px;
       padding: 10px;
       font-weight: 500;
-      font-family: cursive;
+      font-family: monospace;
       background-image: linear-gradient(to right, rgba(245, 8, 166, 0.938), rgba(26, 8, 23, 0.788));
 }
 nav .tag{
